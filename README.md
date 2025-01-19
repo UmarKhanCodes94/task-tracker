@@ -1,2 +1,2 @@
 # Practicing Github
-## demo project for git tutorial 
+Demo project for git tutorial 
